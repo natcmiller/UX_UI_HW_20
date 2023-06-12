@@ -1,0 +1,19 @@
+body {
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+.carousel-inner {
+    height: 650px;
+}
+
+.researchContainer {
+    text-align: center;
+}
