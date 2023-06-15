@@ -1,14 +1,30 @@
-body {
-    padding: 20px;
-}
+
 
 h1 {
     text-align: center;
+    font-family: Baskerville;
+    font-size: 60px;
+}
+
+h2 {
+    text-align: center;
+    font-family: Manrope;
 }
 
 h4 {
     text-align: center;
+    font-family: Manrope;
 }
+
+h6 {
+    text-align: center;
+    font-family: Manrope;
+}
+
+p {
+    font-family: Manrope;
+}
+
 
 .carousel-inner {
     height: 650px;
@@ -16,4 +32,24 @@ h4 {
 
 .researchContainer {
     text-align: center;
+    padding-top: 2%;
+}
+
+.container-fluid {
+    padding-top: 2%;
+    padding: 20px;
+}
+
+.card-img-top {
+    height: 500px;
+    width: 400px;
+}
+
+video {
+    max-width: 100%;
+    height: auto;
+  }
+
+.video {
+    padding-left: 39%;
 }
