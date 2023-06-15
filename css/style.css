@@ -25,6 +25,9 @@ p {
     font-family: Manrope;
 }
 
+.nav {
+    padding-right: 2%;
+}
 
 .carousel-inner {
     height: 650px;
